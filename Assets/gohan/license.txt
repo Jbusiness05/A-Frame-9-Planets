@@ -1,0 +1,11 @@
+Model Information:
+* title:	gohan
+* source:	https://sketchfab.com/3d-models/gohan-43d67fb3ffed450ea6f22df8b87b72bb
+* author:	Kari (https://sketchfab.com/keetos349)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "gohan" (https://sketchfab.com/3d-models/gohan-43d67fb3ffed450ea6f22df8b87b72bb) by Kari (https://sketchfab.com/keetos349) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
